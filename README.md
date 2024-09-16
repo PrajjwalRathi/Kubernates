@@ -1,4 +1,4 @@
-# qa-test
+# Copy of qa-test repo
 
 **Kubernetes Deployment:**
 
